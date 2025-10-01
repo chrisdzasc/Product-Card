@@ -93,7 +93,6 @@ h1 {
     font-weight: 700;
     font-size: 3.2rem;
     line-height: 100%;
-    letter-spacing: 0px;
     color: var(--black);
 }
 
@@ -119,7 +118,6 @@ h1 {
     font-weight: 700;
     font-size: 3.2rem;
     line-height: 100%;
-    letter-spacing: 0px;
     color: var(--green500);
 }
 
@@ -148,7 +146,7 @@ button {
     }
 }
 
-button p {
+button span {
     color: var(--white);
     font-weight: 700;
     font-size: 1.4rem;
